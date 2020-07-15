@@ -38,7 +38,7 @@
 
 ## About The Project
 
-![array-of-numbers](/image/favorite-words.png)
+![favorite words](\image\favorite-words.png)
 
 This project was developed by five HYF students to practice writing simple JS functions. The workflow involved using Visual Studio debugger, Google Chrome debugger and Console. All functions have been tested using the Chai Assertion Library.
 
