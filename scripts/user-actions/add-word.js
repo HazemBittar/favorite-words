@@ -3,12 +3,12 @@ console.log('--- loading: add-word.js');
 
 const addWordHandler = () => {
   debugger;
-  const userInput = prompt('');
-  if (_) {
+  const userInput = prompt('enter string');
+  if (userInput === null) {
     return;
   }
 
-  words._(_);
-  const newMessage = ``;
-  displayHandler(newMessage);
+  words.push(userInput);
+  const newMessage = `string added ${userInput}`;
+  alert(newMessage);
 };
